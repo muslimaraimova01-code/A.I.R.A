@@ -48,6 +48,17 @@ hostile drones, mission HUD, Primary Transmission System and mission completion.
 
 https://www.youtube.com/watch?v=l9h4iGE6bBo 
 
+## 🎮 Playable Prototype
+
+Try the A.I.R.A. prototype on Windows:
+
+👉 [Download A.I.R.A. on itch.io](https://art-sea-games.itch.io/aira)
+
+Extract the downloaded ZIP and launch `Drone.exe`.
+Keep the `Drone` and `Engine` folders alongside the executable.
+
+This is an early prototype. Features, visuals, and performance are still in development.
+
 ## Unreal Engine architecture
 
 A.I.R.A. uses a hybrid Unreal Engine architecture:
