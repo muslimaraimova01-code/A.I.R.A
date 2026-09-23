@@ -47,6 +47,7 @@ A playable vertical slice of A.I.R.A. demonstrates the relay-network mission,
 hostile drones, mission HUD, Primary Transmission System and mission completion.
 
 https://www.youtube.com/watch?v=l9h4iGE6bBo 
+https://youtu.be/cozy2lMJAI8
 
 ## 🎮 Playable Prototype
 
